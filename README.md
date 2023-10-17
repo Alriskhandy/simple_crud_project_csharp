@@ -2,7 +2,7 @@
 
 Aplikasi CRUD C# sederhana menggunakan Visual Studio & .Net Windows Web Forms.
 
-====================================================================================
+==========================================================
 
 Langkah-langkah setup project :
 
